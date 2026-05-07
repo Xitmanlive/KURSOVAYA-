@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Autonomous Hover Drone | HELICOPTER
+* source:	https://sketchfab.com/3d-models/sci-fi-autonomous-hover-drone-helicopter-64a2a770ba5045698b712af84c2c3cd3
+* author:	PolyNest (https://sketchfab.com/polyNeast)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Autonomous Hover Drone | HELICOPTER" (https://sketchfab.com/3d-models/sci-fi-autonomous-hover-drone-helicopter-64a2a770ba5045698b712af84c2c3cd3) by PolyNest (https://sketchfab.com/polyNeast) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
