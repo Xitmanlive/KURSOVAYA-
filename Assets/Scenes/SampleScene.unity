@@ -3029,6 +3029,7 @@ GameObject:
   - component: {fileID: 636758735}
   - component: {fileID: 636758736}
   - component: {fileID: 636758737}
+  - component: {fileID: 636758738}
   m_Layer: 0
   m_Name: XR Origin (VR)
   m_TagString: Untagged
@@ -3141,6 +3142,20 @@ MonoBehaviour:
   grabRadius: 0.35
   rightHandDefaultPosition: {x: 0.35, y: -0.35, z: 0.75}
   leftHandDefaultPosition: {x: -0.35, y: -0.35, z: 0.75}
+--- !u!114 &636758738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636758731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01926816967596408f194fa50a23a1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameplayInputSwitcher
+  continuousMoveProvider: {fileID: 0}
+  pcPlayerMovement: {fileID: 636758736}
 --- !u!1 &653071613
 GameObject:
   m_ObjectHideFlags: 0
